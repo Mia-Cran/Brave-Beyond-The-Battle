@@ -30,25 +30,16 @@ const quoteBtn = document.getElementById("quoteBtn");
  const commentBtn = document.getElementById("commentBtn");
  const commentInput = document.getElementById("commentInput");
  const commentList = document.getElementById("commentList");
- 
 
- readBtn1.addEventListener("click", function () {
-  readBtn1.textContent = "Read More";
- });
+
   readBtn1.addEventListener("click", function () {
    postMore.style.display = "block";
   });
 
- readBtn2.addEventListener("click", function () {
-  readBtn2.textContent = "Read More";
- });
   readBtn2.addEventListener("click", function () {
    postAgain.style.display = "block";
   });
 
- readBtn3.addEventListener("click", function () {
-  readBtn3.textContent = "Read More";
- });
  readBtn3.addEventListener("click", function () {
   postLastTime.style.display = "block";
  });

@@ -1,4 +1,5 @@
- const quoteBtn = document.getElementById("quoteBtn");
+console.log("Javascript is connected!");
+const quoteBtn = document.getElementById("quoteBtn");
  const quoteContainer = document.getElementById("quoteContainer");
 
  const quotes = [

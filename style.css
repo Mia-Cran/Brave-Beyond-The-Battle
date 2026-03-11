@@ -59,3 +59,16 @@ transition: background-color 0.2s ease;
 background-color: #0f5bb5;
 }
 
+#testimonialBtn {
+  padding: 10px 16px;
+  background-color: #4CAF50;
+  color: white;
+  border-radius: 5px;
+}
+#commentBtn {
+  padding: 10px 16px;
+  background-color: #4CAF50;
+  color: white;
+  border-radius: 5px;
+}
+

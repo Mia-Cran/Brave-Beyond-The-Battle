@@ -1,6 +1,6 @@
 # Brave Beyond the Battle
 
-A short description of your project:
+A short description of your project: I built this blog to strength each skill listed below. I learned how to debug, add buttons, and how to hide texts. I learned that simple is still awesome. You can click the Read More buttons for each post. You can also click the Testimonal button and leave a comment too!
 > “A front-end web project/game built to practice HTML, CSS, and JavaScript.”
 
 ## Features

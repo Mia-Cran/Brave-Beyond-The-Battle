@@ -34,24 +34,24 @@ const quoteBtn = document.getElementById("quoteBtn");
 
  readBtn1.addEventListener("click", function () {
   readBtn1.textContent = "Read More";
- })
-  postMore.addEventListener("click", function () {
+ });
+  readBtn1.addEventListener("click", function () {
    postMore.style.display = "block";
-  })
+  });
 
  readBtn2.addEventListener("click", function () {
   readBtn2.textContent = "Read More";
- })
-  postAgain.addEventListener("click", function () {
+ });
+  readBtn2.addEventListener("click", function () {
    postAgain.style.display = "block";
-  })
+  });
 
  readBtn3.addEventListener("click", function () {
   readBtn3.textContent = "Read More";
- })
- postLastTime.addEventListener("click", function () {
+ });
+ readBtn3.addEventListener("click", function () {
   postLastTime.style.display = "block";
- })
+ });
 
  testimonialBtn.addEventListener("click", function() {
   testimonialText.style.display = "block";
@@ -62,7 +62,7 @@ const quoteBtn = document.getElementById("quoteBtn");
   newComment.textContent = commentInput.value;
   commentList.appendChild(newComment);
   commentInput.value = "";
- })
+ });
 
 
 
